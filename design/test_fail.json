@@ -1,0 +1,46 @@
+{
+  "id": "7D567486-96B4-47A5-ADFE-AB56049B1F22",
+  "paperId": "1F5B8543-90EC-4893-80FB-143D107BB3F6",
+  "sections": [
+    {
+      "id": 1,
+      "title": "General Knowledge",
+      "questions": [
+        {
+          "id": 1,
+          "choice": 3,
+          "correct": false,
+          "score:": -0.25,
+          "timeTakenInSecs": 7
+        },
+        {
+          "id": 2,
+          "choice": 2,
+          "correct": false,
+          "score:": -0.25,
+          "timeTakenInSecs": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Science",
+      "questions": [
+        {
+          "id": 1,
+          "choice": 3,
+          "correct": true,
+          "score:": 1,
+          "timeTakenInSecs": 2
+        },
+        {
+          "id": 2,
+          "choice": 1,
+          "correct": true,
+          "score:": 1,
+          "timeTakenInSecs": 3
+        }
+      ]
+    }
+  ]
+}

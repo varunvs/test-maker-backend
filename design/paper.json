@@ -1,0 +1,119 @@
+{
+  "id": "1F5B8543-90EC-4893-80FB-143D107BB3F6",
+  "title": "Sample Question Paper",
+  "instructions": "Answer all questions.\n",
+  "timeLimitInMins": 60,
+  "scoring": {
+    "correct": 1,
+    "wrong": -0.25,
+    "cutOff": 2.75
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "General Knowledge",
+      "instructions": "General knowledge stuff. Hope you read the papers!",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which country is not part of the ASEAN?",
+          "choices": [
+            {
+              "id": 1,
+              "text": "Malaysia"
+            },
+            {
+              "id": 2,
+              "text": "Japan"
+            },
+            {
+              "id": 3,
+              "text": "Vietnam"
+            },
+            {
+              "id": 4,
+              "text": "None of the above"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "id": 2,
+          "title": "When was the ASEAN formed?",
+          "choices": [
+            {
+              "id": 1,
+              "text": "August 8, 1967"
+            },
+            {
+              "id": 2,
+              "text": "August 8, 1957"
+            },
+            {
+              "id": 3,
+              "text": "August 18, 1967"
+            },
+            {
+              "id": 4,
+              "text": "None of the above"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Science",
+      "instructions": "Science-y stuff...",
+      "questions": [
+        {
+          "id": 1,
+          "title": "What is the chemical formula of water?",
+          "choices": [
+            {
+              "id": 1,
+              "text": "H2O2"
+            },
+            {
+              "id": 2,
+              "text": "HO2"
+            },
+            {
+              "id": 3,
+              "text": "H2O"
+            },
+            {
+              "id": 4,
+              "text": "None of the above"
+            }
+          ],
+          "answer": 3
+        },
+        {
+          "id": 2,
+          "title": "Given a cube of edge 'a', the volume 'V' is",
+          "choices": [
+            {
+              "id": 1,
+              "text": "a3"
+            },
+            {
+              "id": 2,
+              "text": "a2"
+            },
+            {
+              "id": 3,
+              "text": "3sqrt(a)"
+            },
+            {
+              "id": 4,
+              "text": "None of the above"
+            }
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
